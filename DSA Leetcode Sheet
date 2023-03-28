@@ -6,3 +6,7 @@ Arrays:
   5.https://leetcode.com/problems/search-insert-position -> Binary Search Approach :D2
   6.https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array -> Binary Search Approach :D2 -> apply binary search for finding first and last position.
   7.https://leetcode.com/problems/find-in-mountain-array -> Binary Search and Peak Element in mountain array :D2
+  
+  
+Sets:
+ 1.https://leetcode.com/problems/intersection-of-two-arrays -> Solve by creating HashSet to remove duplicate :D3
